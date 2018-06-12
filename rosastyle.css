@@ -1,0 +1,66 @@
+
+.nav{
+	text-transform: uppercase;
+}
+.navbar-brand{
+	font-family: 'Homemade Apple', cursive;
+}
+h1{
+	text-align: center;
+
+}
+	
+h2{
+	text-align: center;
+    font-family: 'Homemade Apple', cursive;
+    color: #CF5800;
+}
+h1{
+line-height: 1px;
+font-family: 'Montserrat', sans-serif;
+text-align: center;
+text-transform: uppercase;
+font-weight: 700;
+}
+h5{
+font-weight: 300;	
+font-family: 'Montserrat', sans-serif;
+text-align: center;
+text-transform: uppercase;
+}
+a:link{
+	color: #CF5800;
+}
+a:hover{
+	color:#FFA233;
+	text-decoration: none;
+}
+
+p{
+margin-top:100px;
+margin-right: auto;
+margin-left: auto;
+
+}
+.white{
+	background-color: white;
+	padding: 50px;
+}
+
+.footer{
+	background-color: black
+
+}
+.name{
+	 font-family: 'Homemade Apple', cursive;
+	 font-size: 50px;
+	 text-align: center;
+}
+.foot{ margin-top: 40px;
+	text-transform: uppercase;
+	font-weight: 400;	
+font-family: 'Montserrat', sans-serif;
+}
+.last{
+	background-color: #242322;
+}
